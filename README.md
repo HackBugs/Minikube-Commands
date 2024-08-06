@@ -1,6 +1,6 @@
 # Minikube-Commands
 
-<details><summary><b><h2>Kubectl Commands</h2></b></summary>
+<details><summary><b>Kubectl Commands</b></summary>
 
 ```sh
 kubectl get pods
@@ -10,7 +10,7 @@ kubectl apply -f pod1.yml
 ```
 </details>
 
-<details><summary><b><h2>Script</h2></b></summary>
+<details><summary><b>Script</b></summary>
 - Create folder - mkdir minikube-pods-script
 - vi pod1.yaml - Now use this Script 
   
