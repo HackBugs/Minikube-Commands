@@ -73,3 +73,6 @@ spec:
        - containerPort: 80  
 ```
 </details>
+
+<p><b>This text is bold</b> and <i>this text is italic</i>.</p>
+
