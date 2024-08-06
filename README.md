@@ -1,7 +1,6 @@
 ## Minikube-Commands
 
 <details><summary><b>Kubectl Commands</b></summary>
-  
 ```sh
 kubectl get pods
 ```
