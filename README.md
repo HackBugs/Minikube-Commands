@@ -74,5 +74,23 @@ spec:
 ```
 </details>
 
-<p><b>This text is bold</b> and <i>this text is italic</i>.</p>
+<table>
+  <tr>
+    <th>Command</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><code>kubectl get nodes</code></td>
+    <td>List all nodes in the cluster</td>
+  </tr>
+  <tr>
+    <td><code>kubectl create deployment</code></td>
+    <td>Create a deployment</td>
+  </tr>
+  <tr>
+    <td><code>kubectl get pods</code></td>
+    <td>Get pods</td>
+  </tr>
+</table>
+
 
