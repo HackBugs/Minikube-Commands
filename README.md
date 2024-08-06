@@ -10,7 +10,7 @@ kubectl apply -f pod1.yml
 ```
 </details>
 
-<details><summary><h2></h2><b>Script</h2></b></summary>
+<details><summary><b><h2>Script</h2></b></summary>
 - Create folder - mkdir minikube-pods-script
 - vi pod1.yaml - Now use this Script 
   
