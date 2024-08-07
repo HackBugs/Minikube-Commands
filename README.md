@@ -1,4 +1,5 @@
 # Minikube-Commands
+DevOps Project - [wanderlust](https://github.com/DevMadhup/wanderlust/tree/devops)
 
 <details><summary><b>Kubectl Commands</b></summary>
 
@@ -8,6 +9,13 @@ kubectl get pods
 ```sh
 kubectl apply -f pod1.yml
 ```
+```sh
+kubectl get namespace -- namespace is kind of group that don't effect of oudsider
+```
+```sh
+kubectl create namespace wonderlust
+```
+
 </details>
 
 <details><summary><b>Script</b></summary>
